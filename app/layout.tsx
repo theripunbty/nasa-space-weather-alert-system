@@ -1,4 +1,4 @@
-// app/layout.tsx
+
 export const metadata = {
   title: "Space Weather Monitor",
   description: "Monitor space weather activity in real-time",
